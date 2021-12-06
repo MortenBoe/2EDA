@@ -1,6 +1,6 @@
 # 2EDA
 Dokumenter vedrørende utplassering.
 
-Kontaktlærer: Morten Bøe | 
+Kontaktlærer: Morten Bøe 
 | morten.boe@skole.rogfk.no 
 | 90728661
