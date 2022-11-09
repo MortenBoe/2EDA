@@ -1,5 +1,5 @@
 # 2EDA
-Dokumenter vedrørende utplassering.
+Skjemaer vedrørende utplassering.
 
 Kontaktlærer: Morten Bøe 
 | morten.boe@skole.rogfk.no 
