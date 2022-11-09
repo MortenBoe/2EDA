@@ -1,5 +1,5 @@
 # 2EDA
-Skjemaer og dokumenter vedrørende utplassering.
+Skjemaer og dokumenter vedrørende utplassering gjennom YFF (Yrkesfaglig fordypning).
 
 
 ## Se vedlagt "Informasjon om forsikringsordning for elever som er utplassert gjennom YFF".
