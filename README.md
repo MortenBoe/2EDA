@@ -1,6 +1,6 @@
 # 2EDA
 Skjemaer og dokumenter vedrørende utplassering gjennom YFF (Yrkesfaglig fordypning).<br/>
-Åpne "Utplasseringskjemaer.pdf" ovenfor.
+Åpne "Utplasseringskjemaer.pdf" ovenfor for å hente skjemaer og dokumenter vedrørende utplassering.
 
 
 ## Se "Informasjon om forsikringsordning for elever som er utplassert gjennom YFF".
